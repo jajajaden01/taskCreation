@@ -1,0 +1,15 @@
+PORT=3000
+BACKEND_URL=http://localhost:4002PORT=4002
+
+DB_USERNAME=***DBusername***
+DB_PASSWORD=***DBpassword***
+
+DEVELOP_DB_NAME=***DB name***
+TEST_DATABASE=***DB name***
+PRODUCTION_DB_NAME=***DB name***
+
+DATABASE_URL=postgres://***DBusername***:***DBpassword***@localhost:5432/***DB name***
+TEST_DATABASE_URL=postgres://***DBusername***:***DBpassword***@localhost:5432/***DB name***
+
+HOST=localhost
+SECRET_KEY=***SecretKey***
